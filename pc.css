@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(223, 217, 217);
+}
+.card-deck{
+    margin-top: 10%;
+    margin-left: 10%;
+
+    height: 530px;
+    width: 1080px;
+    
+}
+.card{
+    border-radius: 40px;
+}
+.card-img-top{
+    border-radius: 40px;
+
+}
+.navi{
+    margin-top: 5%;
+}
+#hed{
+    color:darkgoldenrod;
+}
