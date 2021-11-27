@@ -23,3 +23,7 @@ body{
 #hed{
     color:darkgoldenrod;
 }
+
+.btn btn-md btn-danger{
+    margin-left: 10%;
+}
